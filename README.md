@@ -40,3 +40,7 @@ Configuração do Ataque: O zphisher automatiza o processo de criação de uma p
 Captura de Credenciais: Quando a vítima tenta acessar o site falso, as credenciais de login são capturadas e registradas.
 Licença
 Este projeto está licenciado sob a Licença MIT, sinta-se à vontade para usá-lo de acordo com os termos.
+
+## Resultado:
+![image](https://github.com/user-attachments/assets/28db9cf7-0779-487b-910e-f113256d7037)
+
