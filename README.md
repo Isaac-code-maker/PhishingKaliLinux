@@ -16,15 +16,6 @@ Embora o `setoolkit` seja uma ferramenta poderosa para ataques de engenharia soc
 
 ## Como Executar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-Navegue até o diretório do projeto:
-
-bash
-Copiar
-Editar
-cd nome-do-diretorio
 Instale o zphisher:
 
 bash
